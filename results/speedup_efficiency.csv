@@ -1,0 +1,6 @@
+Dataset,OpenMP_Speedup,OpenMP_Efficiency,MPI_Speedup,MPI_Efficiency,Hybrid_Speedup,Hybrid_Efficiency
+R-MAT S17,1.01,0.25,0.43,0.11,0.30,0.08
+R-MAT S18,1.02,0.26,0.44,0.11,0.30,0.08
+R-MAT S19,1.11,0.28,0.46,0.12,0.32,0.08
+R-MAT S20,1.28,0.32,0.51,0.13,0.35,0.09
+LiveJournal,1.70,0.43,0.57,0.28,0.55,0.27
