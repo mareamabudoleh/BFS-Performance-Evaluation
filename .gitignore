@@ -1,0 +1,24 @@
+# Compiled binaries
+bfs_serial
+bfs_openmp
+bfs_mpi
+bfs_hybrid
+generate_rmat
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Large datasets
+datasets/*.txt
+datasets/*.gz
+
+# Temporary files
+*.o
+*.out
+*.log
+
+# System/editor files
+.DS_Store
+.vscode/
