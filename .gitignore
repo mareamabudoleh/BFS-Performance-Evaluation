@@ -29,3 +29,4 @@ datasets/*.gz
 !datasets/rmat_s16_e1m.txt
 !datasets/rmat_s17_e2m.txt
 !datasets/rmat_s18_e4m.txt
+!datasets/rmat_s18_e8m.txt
