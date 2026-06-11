@@ -22,3 +22,7 @@ datasets/*.gz
 # System/editor files
 .DS_Store
 .vscode/
+
+!datasets/test_graph.txt
+!datasets/email-Eu-core.txt
+!datasets/wiki-Vote.txt
